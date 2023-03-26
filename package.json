@@ -1,0 +1,14 @@
+{
+  "name": "create-mock-data",
+  "version": "1.0.0",
+  "description": "create mock data with chatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "alipschutz@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
